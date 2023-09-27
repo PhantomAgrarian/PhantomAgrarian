@@ -1,6 +1,5 @@
 ### Hello!
 ### I'm Ted Nelson, and I'm enrolled in Tech Elevator's Bootcamp!
-### Forgive me for keeping this brief; the prework is due tomorrow.
 
 <!--
 **PhantomAgrarian/PhantomAgrarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
